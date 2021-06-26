@@ -194,9 +194,9 @@ console.log(joe);
 //  ========================================================
 // for arrow 
 // let Student = (name, age, hometown) => ({
-//   this.Name = name,
-//   this.age = age,
-//   this.hometown = hometown
+//   this.name = name;
+//   this.age = age;
+//   this.hometown = hometown;
 // })
 // let newJoe =new newStudent (['Joe', 'Schmoe', 100]);
 
